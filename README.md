@@ -1,12 +1,7 @@
-Developed by :
- _____       _        ___  ___      _               _     
-/  ___|     | |       |  \/  |     | |             | |    
-\ `--.  ___ | | ___   | .  . | __ _| |__   ___  ___| |__  
- `--. \/ _ \| |/ _ \  | |\/| |/ _` | '_ \ / _ \/ __| '_ \ 
-/\__/ / (_) | | (_) | | |  | | (_| | | | |  __/\__ \ | | |
-\____/ \___/|_|\___/  \_|  |_/\__,_|_| |_|\___||___/_| |_|
-                                                          
-                                                          
+<div align="center">
+<i>Developed by: </i></br>
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/SoloMahesh/1_4C100/Developer.png" />
+</div>
 
 ## Run Locally
 
